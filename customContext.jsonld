@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "affiliation": "https://example.org/terms#affiliation",
+    "authorizationLevel": "https://example.org/terms#authorizationLevel",
+    "validFrom": {
+      "@id": "https://example.org/terms#validFrom",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "validUntil": {
+      "@id": "https://example.org/terms#validUntil",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "systemType": "https://example.org/terms#systemType"
+  }
+}
